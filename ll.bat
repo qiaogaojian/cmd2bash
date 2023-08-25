@@ -1,0 +1,1 @@
+@echo. && @dir /AD /ON /B && @echo. && @dir /A-D /ON /B 2>nul | findstr /R "." && @echo.
