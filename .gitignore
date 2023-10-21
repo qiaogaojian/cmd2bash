@@ -1,15 +1,4 @@
 /*
-/*.*
-!.gitignore
 !*.bat
-!vimrc
-!.vimrc
-!.vim/
-!environment.yaml
-!ctags/
-!test/
-test/*.swp
-test/*.class
-test/*.exe
-test/*.obj
-*/tags
+!.gitignore
+
